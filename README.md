@@ -2,7 +2,7 @@
 <h1 align="center">Aditya Sahoo</h1>
 
 <h3 align="center">A data enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/a27d24_16bbdb1ff1594bb6bc7f5649f07c1781~mv2.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasahoo1&label=Profile%20views&color=0e75b6&style=flat" alt="adityasahoo1" /> </p>
 
